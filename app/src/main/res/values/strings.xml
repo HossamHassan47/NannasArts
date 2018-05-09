@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nanna\'s Arts</string>
+    <string name="category">Arts | Crafts</string>
+    <string name="about">Nanna\'s Arts, It\'s about handmade arts such as Crochet, Trikot, Crafts and stuff from Beads. Founded in April 2017 and available in Egypt and KSA.</string>
+    <string name="open">10:00 AM - 10:00 PM</string>
+    <string name="mobile">+201110979353</string>
+    <string name="email">NannaArts58@gmail.com</string>
+    <string name="facebook">NannaArtsHandmade</string>
+    <string name="linkedin">www.linkedin.com/company/nannas-arts</string>
+    <string name="blog">NannaArtsStory.blogspot.com</string>
+    <string name="twitter">NannasArts</string>
+    <string name="instagram">nannas_arts58</string>
+    <string name="action_settings">Settings</string>
+</resources>
