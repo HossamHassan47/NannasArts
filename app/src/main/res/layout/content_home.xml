@@ -81,9 +81,11 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/phone" />
             <android.support.v7.widget.AppCompatTextView
+                android:id="@+id/text_view_mobile"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/text_margin"
+                android:textColor="@color/colorPrimary"
                 android:text="@string/mobile"/>
         </android.support.v7.widget.LinearLayoutCompat>
 
