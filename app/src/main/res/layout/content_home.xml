@@ -20,6 +20,7 @@
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -105,9 +106,11 @@
                 android:text="@string/open" />
         </android.support.v7.widget.LinearLayoutCompat>
 
+        <!--Contact Us-->
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -292,6 +295,7 @@
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -332,7 +336,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/crochet__1" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -341,7 +345,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/crochet__3" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -350,31 +354,15 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/crochet__4" />
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
-
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
         </android.support.v7.widget.LinearLayoutCompat>
 
         <!--trikot-->
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -415,7 +403,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/trico_1" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -424,7 +412,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/trico_2" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -433,31 +421,14 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
-
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
-
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/trico_3" />
         </android.support.v7.widget.LinearLayoutCompat>
 
         <!--crafts-->
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -498,7 +469,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/craft_1" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -507,7 +478,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/craft_2" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -516,31 +487,15 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/craft_3" />
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
-
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
         </android.support.v7.widget.LinearLayoutCompat>
 
         <!--beads-->
         <android.support.v7.widget.LinearLayoutCompat
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/section_margin"
             android:layout_marginBottom="@dimen/text_margin"
             android:gravity="center_vertical"
             android:orientation="horizontal">
@@ -581,7 +536,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/beads_2" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -590,7 +545,7 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/beads_3" />
 
             <ImageView
                 android:layout_width="match_parent"
@@ -599,25 +554,9 @@
                 android:adjustViewBounds="true"
                 android:minHeight="50dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/header" />
+                android:src="@drawable/beads_4" />
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="@dimen/text_margin"
-                android:adjustViewBounds="true"
-                android:minHeight="50dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/header" />
         </android.support.v7.widget.LinearLayoutCompat>
 
     </android.support.v7.widget.LinearLayoutCompat>
