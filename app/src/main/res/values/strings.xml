@@ -10,5 +10,12 @@
     <string name="blog">NannaArtsStory.blogspot.com</string>
     <string name="twitter">NannasArts</string>
     <string name="instagram">nannas_arts58</string>
+    <string name="snapchat">NannasArts</string>
+    <string name="aboutus">About</string>
+    <string name="contactus">Contact Us</string>
+    <string name="crochet">Crochet</string>
+    <string name="trikot">Trikot</string>
+    <string name="crafts">Crafts</string>
+    <string name="beads">Beads</string>
     <string name="action_settings">Settings</string>
 </resources>
