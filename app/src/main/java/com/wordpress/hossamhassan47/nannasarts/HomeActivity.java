@@ -27,7 +27,7 @@ public class HomeActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        // Make a call
+        // Make call
         TextView txtMobile = findViewById(R.id.text_view_mobile);
         txtMobile.setPaintFlags(txtMobile.getPaintFlags() | Paint.UNDERLINE_TEXT_FLAG);
         txtMobile.setOnClickListener(new View.OnClickListener() {
